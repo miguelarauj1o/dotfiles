@@ -2,7 +2,10 @@
 execute pathogen#infect()
 
 syntax on
-color dracula
+set t_Co=256
+set termguicolors
+set background=dark
+colorscheme kuroi
 
 filetype plugin indent on
 set expandtab
