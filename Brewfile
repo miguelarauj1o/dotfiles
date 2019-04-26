@@ -4,6 +4,7 @@ tap "mas-cli/tap", pin: true
 brew "hugo"
 brew "mas"
 brew "mit-scheme"
+brew "neovim"
 brew "node"
 brew "react-native-cli"
 brew "tree"
