@@ -9,9 +9,9 @@ brew "node"
 brew "react-native-cli"
 brew "tree"
 brew "watchman"
-mas "", id: 409203825
-mas "", id: 955297617
 mas "", id: 747648890
+mas "", id: 955297617
+mas "", id: 409203825
 mas "", id: 1333542190
 mas "", id: 497799835
 mas "", id: 409201541
