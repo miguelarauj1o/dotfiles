@@ -9,13 +9,11 @@ brew "node"
 brew "react-native-cli"
 brew "tree"
 brew "watchman"
-mas "", id: 747648890
-mas "", id: 955297617
-mas "", id: 409203825
-mas "", id: 1333542190
-mas "", id: 497799835
-mas "", id: 409201541
-mas "", id: 803453959
-mas "", id: 409183694
-mas "", id: 425424353
-mas "", id: 904280696
+mas "1Password 7", id: 1333542190
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Slack", id: 803453959
+mas "The Unarchiver", id: 425424353
+mas "Things", id: 904280696
+mas "Xcode", id: 497799835

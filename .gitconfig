@@ -7,9 +7,9 @@
 	tags = tag -l
 	branches = branch -a
 	remotes = remote -v
-	aliases = config --get-regexp alias
 	amend = commit --amend --reuse-message=HEAD
-	dm = "!git branch --merged | grep -v '\\*' | xargs -n 1 git branch -d"
+  dm = "!git branch --merged | grep -v '\\*' | xargs -n 1 git branch -d"
+  graph = log --graph --color --pretty=format:"%C(yellow)%H%C(green)%d%C(reset)%n%x20%cd%n%x20%cn%x20(%ce)%n%x20%s%n"
 [apply]
 	whitespace = fix
 [core]
